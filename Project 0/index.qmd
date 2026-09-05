@@ -1,9 +1,0 @@
----
-title: "Project 0"
---- 
-
-# INTRODUCTIONS
-
-![This is Matthew Jacoby. He is a 1st year Graduate Student at Johns Hopkins University studying Molecular Microbiology and Immunology to get his Masters of Science degree at the Bloomberg School of Public Health. ](https://github.com/mjacob72/mjacob72.github.io/blob/gh-pages/Project%200/MEJ-official-Photo.png){width="90%"}
-
-
