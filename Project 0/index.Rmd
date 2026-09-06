@@ -1,0 +1,34 @@
+---
+title: "Matthew Jacoby"
+image: "MEJ-official-Photo.png"
+links:
+  - label: Resume
+    url: "https://linkedin.com/"
+  - label: LinkedIn
+    url: "
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+
+
+## Education
+
+**INSEAD** | George Mason University, Fairfax VA
+
+B.S. | August 2020 - May 2024
+
+
+## Experience
+
+**Freelance** | Live Entertainment Consultant | August 2018 - Present
+
+**Cercle** | Producer | August 2018 - Present
+
+**National Public Radio** | Producer | May 2015 - July 2018
+
+**NME Magazine** | Editor | July 2014 - July 2016
+
+**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
