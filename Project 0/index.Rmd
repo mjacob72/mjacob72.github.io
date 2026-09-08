@@ -2,22 +2,35 @@
 title: "Matthew Jacoby"
 image: 'MEJ-official-Photo.png'
 links:
-  - label: 'Resume'
+  - label: '📑Resume'
     url: "https://www.linkedin.com/in/matthew-jacoby-b1904b211/overlay/1788875984562/single-media-viewer/?profileId=ACoAADWT5IUBUDqqCLuM_cE05wFJkVEY7CC1Usk"
-  - label: 'LinkedIn'
+  - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
     url: "https://www.linkedin.com/in/matthew-jacoby-b1904b211/"
 output:
   postcards::solana
 
 ---
- 
+ ```{r, eval=TRUE, echo=FALSE}
+ library(postcards)
+ ```
+<style>
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+.vandstrom-icon {
+  width: 40px;
+  height: auto;
+}
+</style>
+
 ## Bio
 Matthew is a current student at Johns Hopkins University's Bloomberg School of Public Health studying in the Molecular Microbiology and Immunology department. His research insterests include computational and structural modeling of host/pathogen interactions, in-vitro mechanistic studies of host/pathogen interactions and pathways, and understanding the metabolic impacts of viral infections on the host. Outside of lab, he is an active participant in two choirs: [The New Wave Singers](https://newwavesingers.org) of Baltimore & [Mosaic Community Chorus](https://mosaiccommunitychorus.square.site/about). He likes playing sandbox and idle games, and also enjoys using his hands for baking, crocheting, and other creative activities. 
 
 
 ## Education
 
-**George Mason University** |  Fairfax, VA
+![](Assets/GMU-logo.png){width=40}**George Mason University** |  Fairfax, VA
 
 *B.S. Chemistry - Focus: Biochemistry* | Aug. 2020 - May 2024
 
@@ -25,10 +38,13 @@ Matthew is a current student at Johns Hopkins University's Bloomberg School of P
 
 ## Experience
 
-**Vandstrom** | *Laboratory Technician* | Oct. 2024 - Aug. 2026
+![](Assets/Vandstrom-Drop.svg){.vandstrom-icon}**Vandstrom** | *Laboratory Technician* | Oct. 2024 - Aug. 2026
 
 **Petsmart** | *Sales Associate* | Aug. 2024 - Sept. 2024
 
 **George Mason University** | *Learning Assistant* | Jan. 2022 - Dec. 2022, Aug. 2023 - Dec. 2023
 
 **George Mason University** | *Research Assistant* | Jan. 2022 - Aug. 2024
+
+
+
