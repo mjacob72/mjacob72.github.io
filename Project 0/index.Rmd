@@ -5,7 +5,7 @@ links:
   - label: Resume
     url: "https://linkedin.com/"
   - label: LinkedIn
-    url: "
+    url: ""
 output:
   postcards::solana
 ---
@@ -16,7 +16,7 @@ output:
 
 ## Education
 
-**INSEAD** | George Mason University, Fairfax VA
+**George Mason University** |  Fairfax, VA
 
 B.S. | August 2020 - May 2024
 
