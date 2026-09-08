@@ -11,15 +11,16 @@ output:
 ---
  
 ## Bio
-Sample bio
+Matthew Jacoby is a current student at Johns Hopkins University's Bloomberg School of Public Health studying within the Molecular Microbiology and Immunology department. His research insterests include computational and structural modeling of pathogen/host interactions, mechanistic studies of host/pathogen interactions and pathways, and the metabolic impacts of infection on the host. Outside of lab, he is an active participant in two choirs: The New Wave Singers of Baltimore & Mosaic Community Chorus, likes playing sandbox and idle games, and likes to use his hands for baking, crocheting, and other creative things. 
 
 
 ## Education
 
 **George Mason University** |  Fairfax, VA
 
-B.S. | August 2020 - May 2024
+B.S. Chemistry - Focus: Biochemistry | Aug. 2020 - May 2024
 
+Minor Biology | Aug. 2020 - May 2024
 
 ## Experience
 
