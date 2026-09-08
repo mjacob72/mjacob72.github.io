@@ -3,15 +3,15 @@ title: "Matthew Jacoby"
 image: "MEJ-official-Photo.png"
 links:
   - label: Resume
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/matthew-jacoby-b1904b211/overlay/1788875984562/single-media-viewer/?profileId=ACoAADWT5IUBUDqqCLuM_cE05wFJkVEY7CC1Usk"
   - label: LinkedIn
-    url: ""
+    url: "https://www.linkedin.com/in/matthew-jacoby-b1904b211/"
 output:
   postcards::solana
 ---
  
 ## Bio
-
+Sample bio
 
 
 ## Education
@@ -23,12 +23,10 @@ B.S. | August 2020 - May 2024
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Vandstrom** | Laboratory Technician | Oct. 2024 - Aug. 2026
 
-**Cercle** | Producer | August 2018 - Present
+**Petsmart** | Sales Associate | Aug. 2024 - Sept. 2024
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**George Mason University** | Learning Assistant | Jan. 2022 - Dec. 2022, Aug. 2023 - Dec. 2023
 
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**George Mason University** | Research Assistant | Jan. 2022 - Aug. 2024
