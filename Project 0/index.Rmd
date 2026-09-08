@@ -1,6 +1,6 @@
 ---
 title: "Matthew Jacoby"
-image: 'MEJ-official-Photo.png'
+image: 'Assets/MEJ-official-Photo.png'
 links:
   - label: '📑Resume'
     url: "https://www.linkedin.com/in/matthew-jacoby-b1904b211/overlay/1788875984562/single-media-viewer/?profileId=ACoAADWT5IUBUDqqCLuM_cE05wFJkVEY7CC1Usk"
