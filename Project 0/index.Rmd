@@ -14,18 +14,14 @@ output:
  library(postcards)
  ```
 <style>
-input {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-}
 .vandstrom-icon {
-  width: 40px;
-  height: auto;
+  width: 40px !important;
+  height: auto !important;
 }
 </style>
 
 ## Bio
-Matthew is a current student at Johns Hopkins University's Bloomberg School of Public Health studying in the Molecular Microbiology and Immunology department. His research insterests include computational and structural modeling of host/pathogen interactions, in-vitro mechanistic studies of host/pathogen interactions and pathways, and understanding the metabolic impacts of viral infections on the host. Outside of lab, he is an active participant in two choirs: [The New Wave Singers](https://newwavesingers.org) of Baltimore & [Mosaic Community Chorus](https://mosaiccommunitychorus.square.site/about). He likes playing sandbox and idle games, and also enjoys using his hands for baking, crocheting, and other creative activities. 
+Matthew is a current student at Johns Hopkins University's Bloomberg School of Public Health studying in the Molecular Microbiology and Immunology department. His research insterests include computational and structural modeling of host/pathogen interactions, in-vitro mechanistic studies of host/pathogen interactions and pathways, and understanding the metabolic impacts of viral infections on the host. Outside of lab, he is an active participant in two choirs: [The New Wave Singers](https://newwavesingers.org) of Baltimore & [Mosaic Community Chorus](https://mosaiccommunitychorus.square.site/about). He likes playing sandbox games like minecraft and , and also enjoys using his hands for baking, crocheting, and other creative activities. 
 
 
 ## Education
@@ -38,7 +34,7 @@ Matthew is a current student at Johns Hopkins University's Bloomberg School of P
 
 ## Experience
 
-![](Assets/Vandstrom-Drop.svg){.vandstrom-icon}**Vandstrom** | *Laboratory Technician* | Oct. 2024 - Aug. 2026
+![VDS](Assets/Vandstrom-Drop.svg){r, width=40, height=auto, margin-right=10}   **Vandstrom** | *Laboratory Technician* | Oct. 2024 - Aug. 2026
 
 **Petsmart** | *Sales Associate* | Aug. 2024 - Sept. 2024
 
