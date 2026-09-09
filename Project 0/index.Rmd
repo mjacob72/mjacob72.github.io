@@ -34,7 +34,7 @@ Matthew is a current student at Johns Hopkins University's Bloomberg School of P
 
 ## Experience
 
-![](Assets/Vandstrom-Drop-2.svg){width=40, height=auto, margin-right=10}   **Vandstrom** | *Laboratory Technician* | Oct. 2024 - Aug. 2026
+![](Assets/Vandstrom-Drop.svg){width=20 height=auto}   **Vandstrom** | *Laboratory Technician* | Oct. 2024 - Aug. 2026
 
 **Petsmart** | *Sales Associate* | Aug. 2024 - Sept. 2024
 
