@@ -27,7 +27,7 @@ output:
 Matthew is a current student at Johns Hopkins University's Bloomberg School of Public Health studying in the Molecular Microbiology and Immunology department. His research insterests include computational and structural modeling of host/pathogen interactions, in-vitro mechanistic studies of host/pathogen interactions and pathways, and understanding the metabolic impacts of viral infections on the host. Outside of lab, he is an active participant in two choirs: [The New Wave Singers](https://newwavesingers.org) of Baltimore & [Mosaic Community Chorus](https://mosaiccommunitychorus.square.site/about). He likes playing sandbox and strategy games like minecraft, online chess, and The NYT Connections. As a foodie, he also enjoys cooking and baking and often in his free time, he will search for recipes and restaurants to try out.  
 
 
-## Education
+## `r fontawesome::fa("graduation-cap", fill="#030303")` Education
 
 ---
 
@@ -43,7 +43,7 @@ Matthew is a current student at Johns Hopkins University's Bloomberg School of P
 
 ![](Assets/Vandstrom-Drop.svg){width=20 height=auto}   **Vandstrom** | *Laboratory Technician* | Oct. 2024 - Aug. 2026
 
-**Petsmart** | *Sales Associate* | Aug. 2024 - Sept. 2024
+![](Assets/PetSmart-Logos-CorpSite-01.png){width=100} | *Sales Associate* | Aug. 2024 - Sept. 2024
 
 **George Mason University** | *Learning Assistant* | Jan. 2022 - Dec. 2022, Aug. 2023 - Dec. 2023
 
