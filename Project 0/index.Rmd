@@ -15,7 +15,7 @@ output:
  ```
 
 
-## Bio
+## `r fontawesome::fa("otter", fill="#030303", prefer_type="solid")` Bio
 
 ---
 
@@ -32,7 +32,7 @@ His previous work and interests span Quantum Mechanical and Molecular Dynamics s
 
 *Minor Biology* | Aug. 2020 - May 2024
 
-## Experience
+## `r fontawesome::fa("user-tie", fill="#030303")` Experience
 
 ---
 
